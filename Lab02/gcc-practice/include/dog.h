@@ -1,0 +1,1 @@
+void bark(char* name);
